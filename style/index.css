@@ -50,12 +50,13 @@ table {
 
 h1 {
     font-size: 50px;
-	text-align: center;
+	
 }
 
 .nav {
 	display: flex;
 	justify-content: space-between;
+	align-items: baseline;
 }
 
 .cards {
@@ -117,5 +118,11 @@ h1 {
 .bwalk {
 	width: 25rem;
 	height: 25rem;
+	
+}
+
+.footer {
+display: flex;
+	background: blue;
 	
 }
