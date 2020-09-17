@@ -58,7 +58,64 @@ h1 {
 	justify-content: space-between;
 }
 
-.maincard {
+.cards {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
 	
+	}
 
+.brick {
+	width: 75rem;
+	height: 35rem;
+	padding:2rem;
+}
+
+.card1{
+	width: 25rem;
+	height: 25rem;
+	padding:2rem;
+	text-align: center;
+}
+
+.card2{
+	width: 25rem;
+	height: 25rem;
+	padding:2rem;
+	text-align: center;
+}
+
+.card3{
+	width: 25rem;
+	height: 25rem;
+	padding:2rem;
+	text-align: center;
+}
+
+.card4{
+	width: 25rem;
+	height: 25rem;
+	padding:2rem;
+	text-align: center;
+
+}
+
+.card5{
+	width: 25rem;
+	height: 25rem;
+	padding:2rem;
+	text-align: center;
+}
+
+.card6{
+
+	width: 25rem;
+	height: 25rem;
+	padding:2rem;
+	text-align: center;
+}
+.bwalk {
+	width: 25rem;
+	height: 25rem;
+	
 }
