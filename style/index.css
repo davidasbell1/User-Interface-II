@@ -126,3 +126,8 @@ display: flex;
 	background: blue;
 	
 }
+
+@media (max-width: 800px) {
+	width: 25rem;
+	height: 25rem;
+}
