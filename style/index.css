@@ -132,11 +132,17 @@ display: flex;
 @media (max-width: 800px) {
 .brick {
 	width: 40rem;
+	
 }
 }
 
 @media (max-width: 500px) {
 	.brick {
 		width: 25rem;
+	}
+	.navbuttons {
+		display: flex;
+		flex-direction: column;
+		
 	}
 	}
